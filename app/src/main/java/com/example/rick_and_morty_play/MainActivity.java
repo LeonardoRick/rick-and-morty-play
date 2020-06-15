@@ -1,4 +1,4 @@
-package com.example.base_app;
+package com.example.rick_and_morty_play;
 
 import android.os.Bundle;
 
